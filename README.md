@@ -62,6 +62,8 @@ loss = MSELoss (on masked patches only)
 ## References
 - [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
 - He, K., Chen, X., Xie, S., Li, Y., Dollár, P., & Girshick, R. (2021)
+
+- 
 Demo: https://huggingface.co/spaces/ImranAliNaeem/mae-reconstruction?logs=container
 ```
 
